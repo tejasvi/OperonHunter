@@ -1,2 +1,2 @@
-fastai=1.0.61
+fastai==1.0.61
 streamlit
